@@ -1,0 +1,91 @@
+﻿  Building Custom Rule D:/GAMES/GAMES101/Homeworks/PA7/Assignment7/CMakeLists.txt
+  main.cpp
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(19,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(21,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(45,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(106,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(107,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Scene.hpp(23,30): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Scene.hpp(25,27): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\OBJ_Loader.hpp(944,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Triangle.hpp(181,23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Triangle.hpp(184,1): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Sphere.hpp(81,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Vector.cpp
+  Scene.cpp
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(19,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(21,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(45,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(106,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(107,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Scene.hpp(23,30): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Scene.hpp(25,27): warning C4305: “初始化”: 从“double”到“float”截断
+  BVH.cpp
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(19,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(21,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(45,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(106,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(107,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Renderer.cpp
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(19,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(21,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(45,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(106,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(107,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Scene.hpp(23,30): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Scene.hpp(25,27): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Renderer.cpp(10,60): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Renderer.cpp(12,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Renderer.cpp(21,41): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Renderer.cpp(29,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Renderer.cpp(30,32): warning C4018: “<”: 有符号/无符号不匹配
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Renderer.cpp(32,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Renderer.cpp(34,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Renderer.cpp(38,73): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Renderer.cpp(47,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Material.hpp(177): warning C4715: “Material::eval”: 不是所有的控件路径都返回值
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Material.hpp(160): warning C4715: “Material::pdf”: 不是所有的控件路径都返回值
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Material.hpp(146): warning C4715: “Material::sample”: 不是所有的控件路径都返回值
+BVH.obj : error LNK2019: 无法解析的外部符号 "public: double & __cdecl Vector3f::operator[](int)" (??AVector3f@@QEAAAEANH@Z)，函数 "public: bool __cdecl Bounds3::IntersectP(struct Ray const &,class Vector3f const &,class std::array<int,3> const &)const " (?IntersectP@Bounds3@@QEBA_NAEBURay@@AEBVVector3f@@AEBV?$array@H$02@std@@@Z) 中引用了该符号
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\build\Debug\RayTracing.exe : fatal error LNK1120: 1 个无法解析的外部命令

@@ -1,0 +1,10 @@
+^D:\GAMES\GAMES101\HOMEWORKS\PA7\ASSIGNMENT7\BUILD\CMAKEFILES\DF3DA0FAE996659EDFEC8E3165590E5A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/GAMES/GAMES101/Homeworks/PA7/Assignment7 -BD:/GAMES/GAMES101/Homeworks/PA7/Assignment7/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/GAMES/GAMES101/Homeworks/PA7/Assignment7/build/RayTracing.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\BVH.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Object.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Vector.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Sphere.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Triangle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Scene.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Light.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\AreaLight.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Material.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Intersection.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Renderer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\BVH.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{07C3184F-BDBB-3CBE-B80F-19D410895CFA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0FFD418E-2420-3370-8FCE-549117A4A8DE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

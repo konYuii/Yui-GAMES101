@@ -1,0 +1,40 @@
+﻿  main.cpp
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(19,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(21,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\global.hpp(45,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(106,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(107,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Material.hpp(155,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Material.hpp(205,39): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Material.hpp(216,34): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Material.hpp(245,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Material.hpp(252,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Material.hpp(254,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Scene.hpp(23,30): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Scene.hpp(25,27): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\OBJ_Loader.hpp(944,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Triangle.hpp(180,23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Triangle.hpp(183,1): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Sphere.hpp(80,1): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Sphere.hpp(87,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\main.cpp(37,39): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\main.cpp(38,39): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20): warning C4756: 常量算法中溢出
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21): warning C4756: 常量算法中溢出
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20): warning C4756: 常量算法中溢出
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21): warning C4756: 常量算法中溢出
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20): warning C4756: 常量算法中溢出
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21): warning C4756: 常量算法中溢出
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(20): warning C4756: 常量算法中溢出
+D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\Bounds3.hpp(21): warning C4756: 常量算法中溢出
+  RayTracing.vcxproj -> D:\GAMES\GAMES101\Homeworks\PA7\Assignment7\build\Release\RayTracing.exe
